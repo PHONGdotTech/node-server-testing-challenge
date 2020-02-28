@@ -6,7 +6,7 @@
   "scripts": {
     "test": "cross-env NODE_ENV=testing jest --watch",
     "start": "node",
-    "server":"nodemon"
+    "server": "nodemon"
   },
   "jest": {
     "testEnvironment": "node"
